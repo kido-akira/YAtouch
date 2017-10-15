@@ -1,2 +1,2 @@
 # YAtouch
-Yet Another touch command
+Yet Another touch command for Windows
